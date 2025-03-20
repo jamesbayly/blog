@@ -1,8 +1,14 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/intro.jpg
 ---
 
-# Intro Page
+# About Me and this Blog
 
-Place your introduction and profile here.
+I'm enjoying a premature retirement to travel the world with my camera (or at least till money runs out).
+
+Instead of writing in an old diary to be shunned away and and forgotten, I'm doing a stupid thing and publishing my thoughts and recollections from on the road for you to read or express bewilderment at.
+
+Follow me on [Instagram](https://www.instagram.com/j_bayly/)
+
+If you need to get in contact with me, you can do so via [james@bayly.xyz](mailto:james@bayly.xyz).
