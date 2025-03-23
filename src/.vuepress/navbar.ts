@@ -1,7 +1,11 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
+  {
+    text: "Home",
+    icon: "house",
+    link: "/",
+  },
   {
     text: "Posts",
     icon: "book",

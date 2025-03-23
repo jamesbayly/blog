@@ -1,4 +1,4 @@
-# James Bayly's Blog
+# Perspectives by James Bayly
 
 A collection of musings
 

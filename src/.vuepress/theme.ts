@@ -7,7 +7,7 @@ export default hopeTheme({
     name: "James Bayly",
     url: "https://bayly.xyz",
   },
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.png",
   docsDir: "src",
   navbar,
   sidebar: false,
@@ -16,7 +16,7 @@ export default hopeTheme({
   displayFooter: true,
   darkmode: "disable",
   blog: {
-    description: `A collection of musings and thoughts from the road. Read more about why this blog exists?`,
+    description: `A collection of musings and thoughts from the road. Read more about why this website exists?`,
     intro: "/intro.html",
     medias: {
       Email: "mailto:james@bayly.xyz",
@@ -78,6 +78,11 @@ export default hopeTheme({
     },
     icon: {
       prefix: "fa6-solid:",
+    },
+    seo: true,
+    sitemap: true,
+    feed: {
+      rss: true,
     },
   },
 });

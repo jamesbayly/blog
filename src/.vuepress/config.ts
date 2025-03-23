@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
   lang: "en-US",
-  title: "James' Blog",
+  title: "Perspectives from James Bayly",
   description: "A collection of musings and thoughts from the road.",
   theme,
   head: [
