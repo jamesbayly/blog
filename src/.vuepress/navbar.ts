@@ -19,6 +19,6 @@ export default navbar([
   {
     text: "Galleries",
     icon: "images",
-    link: "https://www.bayly.xyz/browse",
+    link: "https://media.bayly.xyz/browse",
   },
 ]);

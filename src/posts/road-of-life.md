@@ -33,6 +33,6 @@ It’s a sad place. A place where loneliness is bought and sold by the hour. A p
 
 ## Gallery
 
-https://www.bayly.xyz/Thailand-Bangkok
+https://media.bayly.xyz/Thailand-Bangkok
 
-<iframe src="https://www.bayly.xyz/frame/slideshow?key=ZF5vV2&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://media.bayly.xyz/frame/slideshow?key=ZF5vV2&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
