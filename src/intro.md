@@ -1,9 +1,10 @@
 ---
+title: About Me and this Website
 icon: circle-info
 cover: /assets/images/intro.jpg
+date: 2025-03-01
+toc: false
 ---
-
-# About Me and this Website
 
 I'm enjoying a premature retirement to travel the world with my camera (or at least till money runs out).
 

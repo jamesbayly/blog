@@ -1,11 +1,11 @@
 ---
+title: The Road of Life
 cover: https://photos.smugmug.com/Thailand-Bangkok/i-JVfgn2H/0/NBzPSSCMXZpjCgHVvDRL2Gw5qG3mv6fJx8HXHBbmj/X4/DSC03557-X4.jpg
 date: 2025-03-20
+toc: false
 tag:
   - Thailand
 ---
-
-# The Road of Life
 
 Sukhumvit Road stretches like an artery through Bangkok’s restless heart, pumping life, commerce, and vice through its endless sprawl. Past gilding shopping malls, alongside through some of the best value for money business hotels, carved out under one of the busiest BTS lines.
 

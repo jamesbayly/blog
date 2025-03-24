@@ -1,1 +1,13 @@
 // place your custom styles here
+.page-cover img {
+  max-height: 75vh;
+}
+
+.vp-article-cover {
+  max-height: 50vh;
+  object-fit: cover;
+}
+
+[vp-content] img {
+  max-height: 80vh;
+}

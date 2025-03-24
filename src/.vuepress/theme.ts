@@ -14,7 +14,7 @@ export default hopeTheme({
   footer:
     "A collection of musings and thoughts from the road. Everything is the sole opinion of James Bayly, from some historic point of time.",
   displayFooter: true,
-  darkmode: "disable",
+  darkmode: "auto",
   blog: {
     description: `A collection of musings and thoughts from the road. Read more about why this website exists?`,
     intro: "/intro.html",
@@ -25,7 +25,6 @@ export default hopeTheme({
     articlePerPage: 50,
     articleInfo: ["Date", "ReadingTime", "Tag"],
   },
-
   markdown: {
     align: true,
     attrs: true,

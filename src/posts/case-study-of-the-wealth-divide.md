@@ -1,11 +1,11 @@
 ---
+title: A Case Study of the Wealth Divide
 cover: https://photos.smugmug.com/Thailand-Bangkok/i-WW3Gtb7/0/K2PPVhHQVM5JnRzd3Rvwq8T2Pswq4W5ZDPvf7xG63/X3/DSC03287-X4.jpg
-date: 2025-03-20
+date: 2025-03-21
+toc: false
 tag:
   - Thailand
 ---
-
-# A Case Study of the Wealth Divide
 
 The first thing that sticks to you in Bangkok isn’t the heat, though that comes soon enough - it’s the sheer contrast between the haves and have-nots. A Lamborghini purrs to a stop outside of ICONSiam, its driver stepping out in that latest designer outfits that cost more than the street vendor makes in a year. A few steps away, an old woman crouches beside a makeshift cart, selling mango sticky rice for a handful of baht. Over on the road, a tuk tuk driver beckons to any tourist that will look to him to offer a ride across the city for $4. The city lives in both worlds at once, without hesitation or apology.
 
