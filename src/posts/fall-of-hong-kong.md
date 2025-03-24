@@ -11,7 +11,7 @@ There was a time when Hong Kong was the brightest light in Asia, perhaps the wor
 
 But now? Now my friends say the glow has dimmed.
 
-![The iconic red taxis, aging, uncomfortable, and still largely cash only](https://photos.smugmug.com/Hong-Kong/i-MGtjN4Z/0/M92R26TfcFqw8mbKTLphvTF9ggzc6tv8J2bfC7tMQ/X4/DSC01243-X4.jpg)
+![The iconic red taxis, aging, uncomfortable, and still largely cash only](https://photos.smugmug.com/Hong-Kong/i-CsLHhfx/0/MzZZ4r6CRbs3Z6tGk39DpDTrLshtcwnSkXBqNhqh4/X4/DSC04708-X4.jpg)
 
 The old red taxis, like blood cells through the city’s veins, seem tired - coughing black smoke as they idle in traffic. The Star Ferry, a living relic of a past that felt like it would last forever, rusts at the edges, its paint flaking, its decks emptier than they should be. The alleyways in Central, once brimming with drunken laughter and the scent of frying garlic, are quieter now, a city that is far from dead, but isn’t quite alive either.
 
