@@ -1,6 +1,6 @@
 ---
 title: "The Nuovo Sunset Town: A Love Letter to Europe"
-cover: https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-clock-tower-TlYBF6NW7Fg
+cover: /assets/images/phy-quoc.jpg
 date: 2025-04-13
 toc: false
 tags:
