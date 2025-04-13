@@ -1,6 +1,6 @@
 ---
 title: "The Nuovo Sunset Town: A Love Letter to Europe"
-cover: /assets/images/phy-quoc.jpg
+cover: /assets/images/phu-quoc.jpg
 date: 2025-04-13
 toc: false
 tags:
