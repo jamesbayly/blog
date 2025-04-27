@@ -1,7 +1,7 @@
 ---
 title: "The Great Gamble of the Gulf"
 cover: https://photos.smugmug.com/Qatar/i-CcsBwqS/0/KdnsPvH9CBzjLLnjrHfPLFqf8GfpKxxV6rKFgcSXd/X4/Qatar%20-%201-X4.jpg
-date: 2025-04-23
+date: 2025-04-27
 toc: false
 tags:
   - Dubai
