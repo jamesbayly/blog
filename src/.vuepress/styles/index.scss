@@ -8,6 +8,33 @@
   object-fit: cover;
 }
 
-[vp-content] img {
-  max-height: 80vh;
+[vp-content] figure {
+  background: #faf9f6;
+  padding: 16px 16px 40px 16px;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15), 0 1.5px 0 #e0e0e0;
+  text-align: center;
+  position: relative;
+  margin: 24px auto;
+
+  img {
+    max-width: 100%;
+    border-radius: 4px 4px 2px 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    margin-bottom: 0;
+    max-height: 80vh;
+  }
+
+  figcaption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 12px;
+    color: #444;
+    opacity: 0.85;
+    padding: 0 12px;
+    white-space: pre-line;
+    pointer-events: none;
+    user-select: none;
+  }
 }
