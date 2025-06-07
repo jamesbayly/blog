@@ -8,6 +8,12 @@
   object-fit: cover;
 }
 
+.markdown-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 [vp-content] figure {
   background: #faf9f6;
   padding: 16px 16px 40px 16px;
