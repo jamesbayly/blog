@@ -1,5 +1,5 @@
 ---
-title: "Castles of smoke and stone: Japan Antifragility"
+title: "Castles of smoke and stone: Japan's Antifragility"
 cover: https://photos.smugmug.com/Japan-2025/i-cLwcZPc/1/LDktvFq7cHRkv82RtMZKjBfbVMGqBQWT2XHpSShkL/X4/DSC04175-X4.jpg
 date: 2025-06-07
 toc: false
