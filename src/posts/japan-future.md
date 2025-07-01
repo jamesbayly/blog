@@ -1,5 +1,5 @@
 ---
-title: "A Love Letter to the  Frozen Future"
+title: "A Love Letter to the Frozen Future"
 cover: https://photos.smugmug.com/Japan/i-wNVqnwp/1/NSxhZfhL8ZmhPSLwrD8F9Mv6GLNNs3TJxqX8w57cn/X4/DSC00531-X4.jpg
 date: 2025-06-27
 toc: false
