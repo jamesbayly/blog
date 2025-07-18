@@ -5,6 +5,7 @@ date: 2025-07-18
 toc: true
 tags:
   - Nepal
+excerpt: Life on the trail to Everest Base Camp begins at Lukla, and ends at the frozen frontier land of Gorak Shep, but it's an incredible journey thought some stunning terrain. A collection of short stories of things that stayed with me on the way.
 ---
 
 ## 1 – Lukla — Surrendering Control at the World's Scariest Runway
