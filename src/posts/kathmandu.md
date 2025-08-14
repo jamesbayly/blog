@@ -1,7 +1,7 @@
 ---
 title: Kathmandu - The Illusion of Control
 cover: https://photos.smugmug.com/Kathmandu/i-P2kSrdm/0/KdxwXdwCCL5gFmHVzQfGBdb3QkvVBGkTVWKs6Jt66/X4/DSC05692-X4.jpg
-date: 2025-08-07
+date: 2025-08-15
 toc: false
 tag:
   - Nepal
