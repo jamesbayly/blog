@@ -1,7 +1,7 @@
 ---
 title: Sri Lanka - A Technicolour Paradise
 cover: https://photos.smugmug.com/Sri-Lanka/i-BGsGJWr/4/KLkDmJj6kzfpq32TjBhspKT7Q2b4zgCwXcjTDXpLR/X3/DSC06153-X3.jpg
-date: 2025-08-30
+date: 2025-09-01
 toc: false
 tag:
   - Sri Lanka
