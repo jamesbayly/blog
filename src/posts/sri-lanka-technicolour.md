@@ -5,6 +5,7 @@ date: 2025-09-01
 toc: false
 tag:
   - Sri Lanka
+excerpt: Sri Lanka hits the eyes first - and not gently. The buses are screaming monstrosities on wheels. Airbrushed saints and buddhas piled up on the dash, pumping music drowning out the revs, a disco on two axles. Tuk-tuks dart around them like metallic beetles. The ocean is that deep chrome blue you’d swear was fake until the heat tells you it isn’t. On the roadside, bold brown dirt next to trees green as bottle glass.
 ---
 
 Sri Lanka hits the eyes first - and not gently.

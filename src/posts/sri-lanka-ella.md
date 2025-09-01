@@ -5,6 +5,7 @@ date: 2025-08-23
 toc: false
 tag:
   - Sri Lanka
+excerpt: Ella is a lounge between worlds. A pressure release after the oppressively hot coast, a palate cleanser after temple cities and long buses and rice three times a day. It’s walkable, cute, friendly, and unabashedly arranged for you, weary tourist.
 ---
 
 You arrive by train, and one of the best train journeys of your life. The river of steel has snaked its way through highlands cloaked in tea. Doors flung wide, locals and foreigners alike leaning out into the humid air, the valley peeling back like a curtain.
