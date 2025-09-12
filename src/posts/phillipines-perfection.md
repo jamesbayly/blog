@@ -54,6 +54,6 @@ How wonderful the world is to allow perfection to become predictable, when magic
 
 ## Gallery
 
-https://media.bayly.xyz/Sri-Lanka
+https://media.bayly.xyz/Phillipines
 
-<iframe src="https://media.bayly.xyz/frame/slideshow?key=V3Zmj9&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://media.bayly.xyz/frame/slideshow?key=cLm7Hp&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
