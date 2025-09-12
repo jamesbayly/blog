@@ -5,7 +5,7 @@ date: 2025-09-12
 toc: false
 tag:
   - Phillipines
-excerpt: How spoilt we can become when each day dissolves into a repetitive decision: the shore, the sea, or the sheets? How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes.
+excerpt: How spoilt we can become when each day dissolves into a repetitive decision the shore, the sea, or the sheets? How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes.
 ---
 
 How spoilt we can become when each day dissolves into a repetitive decision: the shore, the sea, or the sheets?
