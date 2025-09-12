@@ -5,16 +5,16 @@ date: 2025-09-12
 toc: false
 tag:
   - Phillipines
-excerpt:
+excerpt: How spoilt we can become when each day dissolves into a repetitive decision: the shore, the sea, or the sheets? How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes.
 ---
 
 How spoilt we can become when each day dissolves into a repetitive decision: the shore, the sea, or the sheets?
 
-How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes
+How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes.
 
 ![](https://photos.smugmug.com/Phillipines/i-3T9Bt7t/0/NbrH4mw8ZfHfnppnxmwVGwKSLTvXL2JGh28VFnnx3/X4/DSC06882-X4.jpg)
 
-How innocent we are when sunglasses wear like armour, beers arrive colder than you’re ex’s heart, and food is fresher than forgiveness, all at the price of pocket change
+How innocent we are when sunglasses wear like armour, beers arrive colder than you’re ex’s heart, and food is fresher than forgiveness, all at the price of pocket change.
 
 How effortlessly pretty we appear as skin ripens to a bronze, hair curls in the salt, and our bodies settle into the sharp embrace of sand.
 
