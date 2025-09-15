@@ -1,10 +1,10 @@
 ---
-title: Phillipines - The Ever-Present Boat Dog
+title: Philipines - The Ever-Present Boat Dog
 cover: https://photos.smugmug.com/Phillipines/i-qFvtW7s/0/KDWxWC5J4pr4mtKR35Dq2jXdqv7DvCVXNtjMBmM8V/X3/DJI_0435-X3.jpg
 date: 2025-09-15
 toc: false
 tag:
-  - Phillipines
+  - Philipines
 excerpt: The Philippines has thousands of islands and many thousands of boats, from a small outrigger carrying a handful of snorkelers or a larger liveaboard heading out on their next expedition. One thread that weaves all these tourist boats together is the presence of a cute resident dog. And why is it that this dog is almost always a puppy - soft, clumsy, and impossible not to smile at?
 ---
 

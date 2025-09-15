@@ -1,10 +1,10 @@
 ---
-title: Phillipines - Lethargic Perfection
+title: Philipines - Lethargic Perfection
 cover: https://photos.smugmug.com/Phillipines/i-fJkwmZ9/0/KnQN7Bv76CHNwJFqHgg25vZkfgjm7bXFdf57zxq8N/X4/DJI_0378-X4.jpg
 date: 2025-09-12
 toc: false
 tag:
-  - Phillipines
+  - Philipines
 excerpt: How spoilt we can become when each day dissolves into a repetitive decision the shore, the sea, or the sheets? How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes.
 ---
 
