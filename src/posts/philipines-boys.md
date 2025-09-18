@@ -5,7 +5,6 @@ date: 2025-09-18
 toc: false
 tag:
   - Philipines
-excerpt: How spoilt we can become when each day dissolves into a repetitive decision the shore, the sea, or the sheets? How relaxed we can be when the sun and sea and the sand conspire in a warm humid embrace that smothers as tenderly as it soothes.
 ---
 
 There are few performances in life as impressive and captivating as the relentless, cheeky flirtations from Filipino men. These island Casanovas seem to possess an inexhaustible energy for playfully audacious remarks to the fairer sex. Their efforts to woo and charm are unrelenting, delivered with a mix of humour, boldness, and a twinkle in the eye that makes it hard to know whether to laugh, roll your eyes, or perhaps blush just a little.
