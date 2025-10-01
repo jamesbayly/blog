@@ -7,7 +7,7 @@ tag:
   - China
 ---
 
-Golden hour is roll time. As the sky turns golden, people pour out of rental shops in borrowed history and converge in the same photogenic spots. The real attractions aren't the temples or gates, they're just backgrounds. The moon gate, the span of an old bridge, the red wall that makes skin tones pop - this is where the action occurs.
+Golden hour is roll time. As the sky yellows, people pour out of rental shops in borrowed history and converge in the same photogenic spots. The real attractions aren't the temples or gates, they're just backgrounds. The moon gate, the span of an old bridge, the red wall that makes skin tones pop - this is where the action occurs.
 
 ![Finding the perfect red wall that makes skin tones pop](https://photos.smugmug.com/China-East/i-RqG9VcB/0/M447nWCjFRZSJsdsM4g9qn3xgqfbZB7f2BjLszcRD/X3/DSC07686-X3.jpg)
 
