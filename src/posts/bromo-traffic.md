@@ -32,11 +32,13 @@ At first it’s maddening. You sit there, calculating how a single parked car ha
 
 This is what you came for. Not the comfort of efficiency, but the chaotic charm of a place that doesn’t work the way you think it should. The system makes no sense, but the view still does.
 
+![Finally at the bottom](https://photos.smugmug.com/Mt-Bromo/i-nk6Q7Kq/2/MWQdsZMmjLZ7WmZh9Xb2wgbTZKNKTV3Cjk76dfLzX/X3/DSC08606-X3.jpg)
+
 So you climb out of the Land Cruiser, stretch your legs, maybe share a couple of cigarettes with a driver in a faded leather jacket.
 
 The most bewildering part of the journey can be the most memorable.
 
-![Finally at the bottom](https://photos.smugmug.com/Mt-Bromo/i-nk6Q7Kq/2/MWQdsZMmjLZ7WmZh9Xb2wgbTZKNKTV3Cjk76dfLzX/X3/DSC08606-X3.jpg)
+![](https://photos.smugmug.com/Mt-Bromo/i-BXJ6sgh/2/NQG8ttrGFPNwnNqmPfxSZpP5k9PsvddWrF4HmvVqZ/X3/DSC08533-X3.jpg)
 
 ## Gallery
 
