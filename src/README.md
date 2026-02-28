@@ -1,6 +1,6 @@
 ---
 home: true
-layout: BlogHome
+layout: Blog
 icon: house
 title: Perspectives by James Bayly
 bgImage: /background-header.jpg
