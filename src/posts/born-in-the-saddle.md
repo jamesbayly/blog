@@ -49,7 +49,9 @@ Up on these high pastures the traveller is most likely to be offered kymyz - fer
 The horse is also sport. The game of Ulak Tartysh, is as iconic as Central Asian life gets: two teams on horseback competing to carry a goat's carcass across the opposing goal. It is fast, brutal, and genuinely thrilling to watch - like a rougher version of Polo. If the opportunity arises, do not miss it, just beware of the wagers that you might be sucked into.
 
 ![Last chance for your bets](https://photos.smugmug.com/Kyrgyzstan/i-366XKr9/0/NKXZpZ9CVvNWQhnvPm7vsRV9XwkhvrtfnTmHGp6Jg/X3/DSC09991-X3.jpg)
+
 ![Explaining the rules of Ulak Tartysh](https://photos.smugmug.com/Pamir-Highway/i-h6kxm3k/0/LfrqKZjTHLzRgH45tHFJ8sRLzxnhTs34Z2SP8pTWL/X3/DSC09992-X3.jpg)
+
 ![](https://photos.smugmug.com/Pamir-Highway/i-P2cTJSD/0/KZRKct4JHHwfMg39Z2436W6DrBknbBcxxXQvfKnHn/X3/DSC00045-X3.jpg)
 
 Modernity encroaches, as it always does. 4wds have arrived in the valleys. Mobile phones sit in the pockets of men who spend their days in the saddle. The Ladas, battered as they are, are still bouncing up the mountain tracks. But the horse has not been replaced. The horse is alive and well, and so is everything it carries with it.
