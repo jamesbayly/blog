@@ -41,8 +41,6 @@ Here, then, is the honest position that every traveller to Kyrgyzstan must event
 
 This is not a reason to stay home. Go with your eyes open. The window is open. Go now, while it is still like this, and carry with you the honest acceptance that you are part of what changes it.
 
-That is the bargain. Most places worth visiting ask for the same.
-
 ![](https://photos.smugmug.com/Kyrgyzstan/i-BpQJkWP/3/KRhXcVznrCVHztWzfRQTvV2gW5ZXFnXDCMJg3pvMP/X3/DSC09841-X3.jpg)
 
 ## Gallery
