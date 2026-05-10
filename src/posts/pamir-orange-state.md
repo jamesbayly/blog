@@ -1,7 +1,7 @@
 ---
-title: "Pamirs - The Orange State"
+title: "Pamir Highway - The Orange State"
 cover: https://photos.smugmug.com/Pamir-Highway/i-bBTZz7b/2/LrfTLpC2P8P5rCVb5XddkDHjZ467ZNVLDmFKcrPkZ/X3/DJI_0788-X3.jpg
-date: 2026-04-10
+date: 2026-05-10
 toc: false
 tag:
   - Kyrgyzstan
@@ -91,7 +91,7 @@ The Wakhan Corridor is a canyon of a place, the Panj River carving a border betw
 
 Except, across the river, villages sit in the same brown rock as the villages on our side. Fields are being worked. Goats are doing goat things. Life is happening - the same life it has always been here, conducted by the Wakhi people, who have moved through these valleys with a transience that predates every single border on every map, who share language and culture and blood across that line, across this river.
 
-[An Afghanistan village on the other side](https://photos.smugmug.com/Pamir-Highway/i-MWHw2RR/2/MXWBBf9x6q69sz7qKH8tLh2Pp4rTDhPVGzCFkkjBG/X3/DSC00529-X3.jpg)
+![An Afghanistan village on the other side](https://photos.smugmug.com/Pamir-Highway/i-9zjFCNR/3/M7kVrrDx3fjnmjdCHnNvjvRpDq4brGsT2b2Dxsbfh/X3/DSC00536-X3.jpg)
 
 ![Ancient villages that farm here back thousands of years](https://photos.smugmug.com/Pamir-Highway/i-Kn9H2Nb/1/MjTg8WgRdHWk53Xch43F7db59cNHpTNdrxpvDMD6F/X3/DSC00284-X3.jpg)
 
