@@ -53,7 +53,7 @@ It is up here that things become truly barren and open, nothing really lives her
 
 ![Huge lunar landscapes and bright sun](https://photos.smugmug.com/Pamir-Highway/i-qMTS5Hg/3/LCLXhtHCL9FgMnM9XwqDwtLsK2zNHLDk3Cv98HKrh/X3/DSC00147-X3.jpg)
 
-Then the Ak-Baital Pass at 4,655 metres - the highest point, the roof of the journey. You descend into Murghab feeling like you've crossed into somewhere that hasn't fully decided whether to be a town or simply a collection of buildings that ended up near each other. There's one bank. The USD exchange rate is a n attack directed specifically at tourists fresh over the border. We could find no toilets - most people head down to the river and find what privacy they can behind rusted sheets of corrugated metal that someone placed there with the minimum ambition.
+Then the Ak-Baital Pass at 4,655 metres - the highest point, the roof of the journey. You descend into Murghab feeling like you've crossed into somewhere that hasn't fully decided whether to be a town or simply a collection of buildings that ended up near each other. There's one bank. The USD exchange rate is an attack directed specifically at tourists fresh over the border. We could find no toilets - most people head down to the river and find what privacy they can behind rusted sheets of corrugated metal that someone placed there with the minimum ambition.
 
 ![Ak-Baital Pass at 4,655 metres - the highest point, the roof of the journey](https://photos.smugmug.com/Pamir-Highway/i-WdqXjBp/1/MT9fNqs9bBD7dJp4LTDGJ8K27bzwNmQXHWHF8hRnD/X3/DJI_0772-X3.jpg)
 
