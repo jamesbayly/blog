@@ -17,7 +17,9 @@ This matters, because you can't really understand the Pamir Highway until you un
 
 ![](https://photos.smugmug.com/Pamir-Highway/i-FjTBGVt/1/MqZG7X8QkLCF5Nbt8BwdMMXpPdF9MSDsvv7wM35wX/X3/DSC00298-X3.jpg)
 
-We leave Osh in the early morning, Kyrgyzstan's second city, the entrance to the lush Fergana valley, another branch of the Silk Road. Over the Taldyk Pass and down into the Alay Valley, the road wide and the mountains wider. The highway that bisects the Alay valley is just the latest iteration of humans crossing the same mountain passes for the same reason they always have - trade. The Chinese trucks charging down the Alay Valley today, loaded with goods moving along Beijing's Belt and Road Initiative, are the direct continuation of something that was never interrupted. Same goal, different branding, better asphalt.
+We leave Osh in the early morning, Kyrgyzstan's second city, the entrance to the lush Fergana valley, another branch of the Silk Road. Over the Taldyk Pass and down into the Alay Valley, the road wide and the mountains wider.
+
+The highway that bisects the Alay valley is just the latest iteration of humans crossing the same mountain passes for the same reason they always have - trade. The Chinese trucks charging down the Alay Valley today, loaded with goods moving along Beijing's Belt and Road Initiative, are the direct continuation of something that was never interrupted. Same goal, different branding, better asphalt.
 
 ![Heading south from Osh](https://photos.smugmug.com/Pamir-Highway/i-PbRdT5h/2/KKzstjRqgMmkMtpH8PjQbf2wTsPsH9F2sbcSJs8Qf/X3/DSC09959-X3.jpg)
 
@@ -73,7 +75,9 @@ Somewhere on the road South between Murghab and the Afghan border, you'll start 
 
 ![Green rivers and dry hills](https://photos.smugmug.com/Pamir-Highway/i-kdpznn2/3/Mcd6Vrp8NHNWbRHFV3bGnKRtrvhTMCMDLsqPtKW9c/X3/DSC00241-X3.jpg)
 
-Closer to the Afghan border, the road traces the edge of the Hindu Kush, and here the past makes itself felt in the shape of the geography itself and the complications that geography has inherited. In the 19th century, the British and Russian empires were playing an elaborate game of strategic chess across Central Asia, each trying to contain the other's expansion. The Wakhan Corridor - this narrow finger of Afghan territory jutting east between Tajikistan and Pakistan - was the brutish solution: a buffer zone drawn by colonial men looking at maps in offices very far from here, designed to ensure the two empires never quite touched.
+Closer to the Afghan border, the road traces the edge of the Hindu Kush, and here the past makes itself felt in the shape of the geography itself and the complications that geography has inherited. In the 19th century, the British and Russian empires were playing an elaborate game of strategic chess across Central Asia, each trying to contain the other's expansion.
+
+The Wakhan Corridor - this narrow finger of Afghan territory jutting east between Tajikistan and Pakistan - was the brutish solution: a buffer zone drawn by colonial men looking at maps in offices very far from here, designed to ensure the two empires never quite touched.
 
 ![Our first glimpse of the Hindu Kush](https://photos.smugmug.com/Pamir-Highway/i-pLNrLQH/2/L5t7DNC5bf8X5fVWCPhPr9ZB4J569jcmnqW3HCxJ3/X3/DSC00237-X3.jpg)
 
