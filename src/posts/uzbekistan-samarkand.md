@@ -1,5 +1,5 @@
 ---
-title: "Uzbekistan - Samarkand, Midpoint of the East to West Road	 "
+title: "Uzbekistan - Samarkand, Midpoint of the East to West Road"
 cover: https://photos.smugmug.com/Uzbekistan/i-bkxw9zp/0/LW7qht5K2xdkBgwS28GqWCZmVV7jP7q5m9XXg9Zv7/X3/DSC00663-X3.jpg
 date: 2026-07-28
 toc: false
