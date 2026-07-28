@@ -21,7 +21,7 @@ A seventh-century mural dug out of Afrasiab shows a parade of foreign envoys at 
 
 ![Intricate details at the Afrasiab](https://photos.smugmug.com/Uzbekistan/i-NQ86S3M/2/Nbpw7KfsN9L5hC6FgGK8b7z8FZfDLkDgcXjQ97MBS/X3/DSC00643-X3.jpg)
 
-Alexander the Great showed up in the 330s BC, crushed the seemingly impregnable fortress here, then married a noblewoman, Roxana, who bore him a son. Genghis Khan showed up in 1220 and did what he did best - flattened it. What rose from the ashes was Samarkand.
+Alexander the Great showed up in the 330s BC, crushed the seemingly impregnable fortress here, then married a noblewoman called Roxana, who bore him a son. Genghis Khan showed up in 1220 and did what he did best - flattened it. What rose from the ashes was Samarkand.
 
 ![A door on a tomb at Afrasiab](https://photos.smugmug.com/Uzbekistan/i-8df2Qh7/2/LtzLMTS8tCcBD5fWHpQZCrPDGWp8cQsj4R4SLRQR5/X3/DSC00651-X3.jpg)
 
